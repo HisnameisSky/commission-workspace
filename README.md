@@ -3,6 +3,8 @@
 
 個人イラストレーター・クリエイターのための、直感的でセキュアなフルスタック・タスク管理＆AI壁打ちワークスペースです。海外・国内の複数のコミッション案件をスムーズに進行・管理するために開発しました。
 
+アクセスリンク先：[https://commission-workspace.pages.dev/](https://commission-workspace.pages.dev/)
+
 ---
 
 ## ✨ 主な機能 (Features)
@@ -39,3 +41,12 @@
 2. 依存パッケージをインストールします：
    ```bash
    npm install
+    ```
+
+## 開発サーバーを起動します：
+    ```bash
+    npm run dev
+    ```
+
+## 📄 ライセンス (License)
+This project is open-source and available under the MIT License.
