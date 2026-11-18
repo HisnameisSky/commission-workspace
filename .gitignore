@@ -8,12 +8,13 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Diagnostic output from local execution
-/.pnp
+.pnp/
 .pnp.js
 
 # Production / Vite
-/dist
-/dist-ssr
+build/
+dist/
+dist-ssr/
 *.local
 
 # Editor directories and files
